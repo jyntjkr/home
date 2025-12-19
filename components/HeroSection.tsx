@@ -11,7 +11,7 @@ const HeroSection = () => {
   ];
 
   return (
-    <section className="min-h-screen bg-cream flex items-center justify-center px-6">
+    <section className="min-h-dvh bg-cream flex items-center justify-center px-6">
       <div className="max-w-lg w-full">
         {/* Name */}
         <div className="flex items-center gap-x-4">

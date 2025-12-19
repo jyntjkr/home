@@ -13,7 +13,7 @@ const AboutPage = () => {
   ];
 
   return (
-    <main className="min-h-screen bg-cream flex justify-center px-6 py-16">
+    <main className="min-h-screen bg-cream flex items-center justify-center px-6">
       <div className="max-w-lg w-full">
         <Link href="/" className="text-gray-500 hover:text-black transition-colors">
           &larr; Back to home
