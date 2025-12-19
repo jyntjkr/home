@@ -18,7 +18,7 @@ const AboutPage = () => {
           &larr; Back to home
         </Link>
 
-        <h1 className="text-4xl mt-8 font-bold">My Guiding Principles</h1>
+        <h1 className="text-3xl md:text-4xl mt-8 font-bold">My Guiding Principles</h1>
     
         <div className="mt-16 space-y-8">
           {quotes.map((quote, index) => (
