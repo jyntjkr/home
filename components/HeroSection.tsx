@@ -44,13 +44,13 @@ const HeroSection = () => {
         I’m stepping back to study CS deeply, build strong fundamentals, and earn the right to do meaningful work in this space.
         </p>
 
-        <p className="font-serif mt-4 text-foreground">
+        {/* <p className="font-serif mt-4 text-foreground">
           Read more about my principles{" "}
           <Link href="/principles" className="underline decoration-dotted underline-offset-4 text-blue-500 hover:text-black transition-colors">
             here
           </Link>
           .
-        </p>
+        </p> */}
 
         <ul className="mt-8 space-y-2 list-disc list-inside text-blue-500">
           <li>
